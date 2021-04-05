@@ -1,3 +1,3 @@
-## Deep Learning algorithms that can detect Covid-19 on chest / lung X-ray films with Python 
+## Deep learning models to lung lesion segmentation & classification on CT slices with pytorch.
 
 Master thesis project.
